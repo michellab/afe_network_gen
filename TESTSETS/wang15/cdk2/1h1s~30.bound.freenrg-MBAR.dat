@@ -1,0 +1,54 @@
+# Analysing data contained in file(s) ['/tmp/3.1.all.q/analyse_freenrg_mbar_5445_1/simfile_0.dat', '/tmp/3.1.all.q/analyse_freenrg_mbar_5445_1/simfile_1.dat', '/tmp/3.1.all.q/analyse_freenrg_mbar_5445_1/simfile_2.dat', '/tmp/3.1.all.q/analyse_freenrg_mbar_5445_1/simfile_3.dat', '/tmp/3.1.all.q/analyse_freenrg_mbar_5445_1/simfile_4.dat', '/tmp/3.1.all.q/analyse_freenrg_mbar_5445_1/simfile_5.dat', '/tmp/3.1.all.q/analyse_freenrg_mbar_5445_1/simfile_6.dat', '/tmp/3.1.all.q/analyse_freenrg_mbar_5445_1/simfile_7.dat', '/tmp/3.1.all.q/analyse_freenrg_mbar_5445_1/simfile_8.dat']
+#Overlap matrix
+0.6625 0.2637 0.0623 0.0104 0.0010 0.0001 0.0000 0.0000 0.0000
+0.2637 0.3849 0.2464 0.0880 0.0154 0.0015 0.0001 0.0000 0.0000
+0.0623 0.2464 0.3500 0.2433 0.0802 0.0151 0.0023 0.0003 0.0000
+0.0104 0.0880 0.2433 0.3271 0.2187 0.0834 0.0231 0.0050 0.0009
+0.0010 0.0154 0.0802 0.2187 0.3082 0.2258 0.1061 0.0357 0.0090
+0.0001 0.0015 0.0151 0.0834 0.2258 0.2905 0.2251 0.1165 0.0420
+0.0000 0.0001 0.0023 0.0231 0.1061 0.2251 0.2867 0.2346 0.1220
+0.0000 0.0000 0.0003 0.0050 0.0357 0.1165 0.2346 0.3275 0.2805
+0.0000 0.0000 0.0000 0.0009 0.0090 0.0420 0.1220 0.2805 0.5456
+#DG from neighbouring lambda in kcal/mol
+0.0000 0.1250 12.2943 0.0071
+0.1250 0.2500 11.4361 0.0054
+0.2500 0.3750 10.8276 0.0049
+0.3750 0.5000 10.1801 0.0052
+0.5000 0.6250 9.5498 0.0043
+0.6250 0.7500 9.0962 0.0037
+0.7500 0.8750 8.8154 0.0037
+0.8750 1.0000 8.7703 0.0048
+#PMF from MBAR in kcal/mol
+0.0000 0.0000 0.0000
+0.1250 12.2943 0.0071
+0.2500 23.7303 0.0110
+0.3750 34.5579 0.0134
+0.5000 44.7380 0.0157
+0.6250 54.2879 0.0174
+0.7500 63.3841 0.0185
+0.8750 72.1995 0.0196
+1.0000 80.9698 0.0208
+#TI average gradients and standard deviation in kcal/mol
+0.0000 104.7103 7.1323
+0.1250 96.7033 6.5804
+0.2500 88.8838 5.5309
+0.3750 87.1161 6.2669
+0.5000 77.8020 4.6979
+0.6250 74.4638 4.6274
+0.7500 71.1592 4.5226
+0.8750 70.3037 4.8003
+1.0000 70.6364 6.9031
+#PMF from TI in kcal/mol
+0.0000 0.0000
+0.1250 12.5883
+0.2500 24.1875
+0.3750 35.1875
+0.5000 45.4949
+0.6250 55.0115
+0.7500 64.1130
+0.8750 72.9544
+1.0000 81.7631
+#MBAR free energy difference in kcal/mol: 
+80.969791, 0.020775  #WARNING SUBSAMPLING DISABLED, CONSIDER RERUN WITH SUBSAMPLING OPTION
+#TI free energy difference in kcal/mol: 
+81.763141  #WARNING SUBSAMPLING DISABLED, CONSIDER RERUN WITH SUBSAMPLING OPTION 

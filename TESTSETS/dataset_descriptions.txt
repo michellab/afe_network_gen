@@ -1,0 +1,5 @@
+loeffler18:
+Small molecules (n=11) for which a reproducibility study was previously published @ 10.1021/acs.jctc.8b00544
+
+wang15:
+the 2015 Wang et al set, containing SOMD calculations performed using Flare by Cresset @ 10.1021/acs.jcim.0c00165

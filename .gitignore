@@ -1,0 +1,10 @@
+SOLVATED/
+VACUUM/
+sim_*
+job_*
+quintup_transform_*
+round3/
+round2/
+trainingsets_prepared/ 
+trainingsets/ 
+features/
