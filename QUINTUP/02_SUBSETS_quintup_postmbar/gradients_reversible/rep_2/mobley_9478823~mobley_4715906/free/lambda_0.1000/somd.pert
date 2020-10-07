@@ -1,0 +1,1365 @@
+version 1
+molecule LIG
+    atom
+        name           C
+        initial_type   c3
+        final_type     c3
+        initial_LJ     3.39771 0.10780
+        final_LJ       3.39771 0.10780
+        initial_charge -0.05191
+        final_charge   -0.08864
+    endatom
+    atom
+        name           C0XX
+        initial_type   ca
+        final_type     c3
+        initial_LJ     3.31521 0.09880
+        final_LJ       3.39771 0.10780
+        initial_charge -0.12711
+        final_charge   -0.07244
+    endatom
+    atom
+        name           C319
+        initial_type   ca
+        final_type     c3
+        initial_LJ     3.31521 0.09880
+        final_LJ       3.39771 0.10780
+        initial_charge -0.13211
+        final_charge   -0.07544
+    endatom
+    atom
+        name           C5BQ
+        initial_type   c3
+        final_type     c3
+        initial_LJ     3.39771 0.10780
+        final_LJ       3.39771 0.10780
+        initial_charge -0.05191
+        final_charge   -0.08864
+    endatom
+    atom
+        name           CAR3
+        initial_type   ca
+        final_type     c3
+        initial_LJ     3.31521 0.09880
+        final_LJ       3.39771 0.10780
+        initial_charge -0.12711
+        final_charge   -0.07244
+    endatom
+    atom
+        name           CHO7
+        initial_type   ca
+        final_type     c3
+        initial_LJ     3.31521 0.09880
+        final_LJ       3.39771 0.10780
+        initial_charge -0.13211
+        final_charge   -0.07544
+    endatom
+    atom
+        name           CP31
+        initial_type   ca
+        final_type     c3
+        initial_LJ     3.31521 0.09880
+        final_LJ       3.39771 0.10780
+        initial_charge -0.07841
+        final_charge   -0.05874
+    endatom
+    atom
+        name           CZ5N
+        initial_type   ca
+        final_type     c3
+        initial_LJ     3.31521 0.09880
+        final_LJ       3.39771 0.10780
+        initial_charge -0.07841
+        final_charge   -0.05874
+    endatom
+    atom
+        name           DU01
+        initial_type   du
+        final_type     hc
+        initial_LJ     0.00000 0.00000
+        final_LJ       2.60018 0.02080
+        initial_charge -0.00000
+        final_charge   0.04266
+    endatom
+    atom
+        name           DU02
+        initial_type   du
+        final_type     hc
+        initial_LJ     0.00000 0.00000
+        final_LJ       2.60018 0.02080
+        initial_charge -0.00000
+        final_charge   0.04266
+    endatom
+    atom
+        name           DU03
+        initial_type   du
+        final_type     hc
+        initial_LJ     0.00000 0.00000
+        final_LJ       2.60018 0.02080
+        initial_charge -0.00000
+        final_charge   0.03841
+    endatom
+    atom
+        name           DU04
+        initial_type   du
+        final_type     hc
+        initial_LJ     0.00000 0.00000
+        final_LJ       2.60018 0.02080
+        initial_charge -0.00000
+        final_charge   0.03791
+    endatom
+    atom
+        name           DU05
+        initial_type   du
+        final_type     hc
+        initial_LJ     0.00000 0.00000
+        final_LJ       2.60018 0.02080
+        initial_charge -0.00000
+        final_charge   0.03791
+    endatom
+    atom
+        name           DU06
+        initial_type   du
+        final_type     hc
+        initial_LJ     0.00000 0.00000
+        final_LJ       2.60018 0.02080
+        initial_charge -0.00000
+        final_charge   0.03841
+    endatom
+    atom
+        name           H
+        initial_type   hc
+        final_type     hc
+        initial_LJ     2.60018 0.02080
+        final_LJ       2.60018 0.02080
+        initial_charge 0.04326
+        final_charge   0.03333
+    endatom
+    atom
+        name           H1OD
+        initial_type   ha
+        final_type     hc
+        initial_LJ     2.62548 0.01610
+        final_LJ       2.60018 0.02080
+        initial_charge 0.12989
+        final_charge   0.03791
+    endatom
+    atom
+        name           HCOI
+        initial_type   hc
+        final_type     hc
+        initial_LJ     2.60018 0.02080
+        final_LJ       2.60018 0.02080
+        initial_charge 0.04326
+        final_charge   0.03333
+    endatom
+    atom
+        name           HCPZ
+        initial_type   ha
+        final_type     hc
+        initial_LJ     2.62548 0.01610
+        final_LJ       2.60018 0.02080
+        initial_charge 0.12989
+        final_charge   0.03791
+    endatom
+    atom
+        name           HDRO
+        initial_type   ha
+        final_type     hc
+        initial_LJ     2.62548 0.01610
+        final_LJ       2.60018 0.02080
+        initial_charge 0.12989
+        final_charge   0.03841
+    endatom
+    atom
+        name           HLYE
+        initial_type   hc
+        final_type     hc
+        initial_LJ     2.60018 0.02080
+        final_LJ       2.60018 0.02080
+        initial_charge 0.04326
+        final_charge   0.03333
+    endatom
+    atom
+        name           HPSU
+        initial_type   hc
+        final_type     hc
+        initial_LJ     2.60018 0.02080
+        final_LJ       2.60018 0.02080
+        initial_charge 0.04326
+        final_charge   0.03333
+    endatom
+    atom
+        name           HUHE
+        initial_type   hc
+        final_type     hc
+        initial_LJ     2.60018 0.02080
+        final_LJ       2.60018 0.02080
+        initial_charge 0.04326
+        final_charge   0.03333
+    endatom
+    atom
+        name           HV5Y
+        initial_type   ha
+        final_type     hc
+        initial_LJ     2.62548 0.01610
+        final_LJ       2.60018 0.02080
+        initial_charge 0.12989
+        final_charge   0.03841
+    endatom
+    atom
+        name           HZZ8
+        initial_type   hc
+        final_type     hc
+        initial_LJ     2.60018 0.02080
+        final_LJ       2.60018 0.02080
+        initial_charge 0.04326
+        final_charge   0.03333
+    endatom
+    bond
+        atom0          C
+        atom1          CP31
+        initial_force  250.30000
+        initial_equil  1.51600
+        final_force    232.50000
+        final_equil    1.53800
+    endbond
+    bond
+        atom0          C0XX
+        atom1          CZ5N
+        initial_force  378.60000
+        initial_equil  1.39800
+        final_force    232.50000
+        final_equil    1.53800
+    endbond
+    bond
+        atom0          C0XX
+        atom1          DU03
+        initial_force  375.90000
+        initial_equil  1.09700
+        final_force    375.90000
+        final_equil    1.09700
+    endbond
+    bond
+        atom0          C0XX
+        atom1          HDRO
+        initial_force  395.70000
+        initial_equil  1.08600
+        final_force    375.90000
+        final_equil    1.09700
+    endbond
+    bond
+        atom0          C319
+        atom1          CHO7
+        initial_force  378.60000
+        initial_equil  1.39800
+        final_force    232.50000
+        final_equil    1.53800
+    endbond
+    bond
+        atom0          C319
+        atom1          DU05
+        initial_force  375.90000
+        initial_equil  1.09700
+        final_force    375.90000
+        final_equil    1.09700
+    endbond
+    bond
+        atom0          C319
+        atom1          HCPZ
+        initial_force  395.70000
+        initial_equil  1.08600
+        final_force    375.90000
+        final_equil    1.09700
+    endbond
+    bond
+        atom0          CAR3
+        atom1          C319
+        initial_force  378.60000
+        initial_equil  1.39800
+        final_force    232.50000
+        final_equil    1.53800
+    endbond
+    bond
+        atom0          CAR3
+        atom1          DU06
+        initial_force  375.90000
+        initial_equil  1.09700
+        final_force    375.90000
+        final_equil    1.09700
+    endbond
+    bond
+        atom0          CAR3
+        atom1          HV5Y
+        initial_force  395.70000
+        initial_equil  1.08600
+        final_force    375.90000
+        final_equil    1.09700
+    endbond
+    bond
+        atom0          CHO7
+        atom1          C0XX
+        initial_force  378.60000
+        initial_equil  1.39800
+        final_force    232.50000
+        final_equil    1.53800
+    endbond
+    bond
+        atom0          CHO7
+        atom1          DU04
+        initial_force  375.90000
+        initial_equil  1.09700
+        final_force    375.90000
+        final_equil    1.09700
+    endbond
+    bond
+        atom0          CHO7
+        atom1          H1OD
+        initial_force  395.70000
+        initial_equil  1.08600
+        final_force    375.90000
+        final_equil    1.09700
+    endbond
+    bond
+        atom0          CP31
+        atom1          CAR3
+        initial_force  378.60000
+        initial_equil  1.39800
+        final_force    232.50000
+        final_equil    1.53800
+    endbond
+    bond
+        atom0          CP31
+        atom1          CZ5N
+        initial_force  378.60000
+        initial_equil  1.39800
+        final_force    232.50000
+        final_equil    1.53800
+    endbond
+    bond
+        atom0          CP31
+        atom1          DU02
+        initial_force  375.90000
+        initial_equil  1.09700
+        final_force    375.90000
+        final_equil    1.09700
+    endbond
+    bond
+        atom0          CZ5N
+        atom1          C5BQ
+        initial_force  250.30000
+        initial_equil  1.51600
+        final_force    232.50000
+        final_equil    1.53800
+    endbond
+    bond
+        atom0          CZ5N
+        atom1          DU01
+        initial_force  375.90000
+        initial_equil  1.09700
+        final_force    375.90000
+        final_equil    1.09700
+    endbond
+    angle
+        atom0          CP31
+        atom1          C
+        atom2          H
+        initial_force  47.30000
+        initial_equil  1.92807
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    angle
+        atom0          CP31
+        atom1          C
+        atom2          HLYE
+        initial_force  47.30000
+        initial_equil  1.92807
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    angle
+        atom0          CP31
+        atom1          C
+        atom2          HPSU
+        initial_force  47.30000
+        initial_equil  1.92807
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    angle
+        atom0          CHO7
+        atom1          C0XX
+        atom2          CZ5N
+        initial_force  68.80000
+        initial_equil  2.09475
+        final_force    64.90000
+        final_equil    1.94622
+    endangle
+    angle
+        atom0          CHO7
+        atom1          C0XX
+        atom2          DU03
+        initial_force  46.80000
+        initial_equil  1.91637
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    angle
+        atom0          CHO7
+        atom1          C0XX
+        atom2          HDRO
+        initial_force  48.70000
+        initial_equil  2.09230
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    angle
+        atom0          CZ5N
+        atom1          C0XX
+        atom2          DU03
+        initial_force  46.80000
+        initial_equil  1.91637
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    angle
+        atom0          CZ5N
+        atom1          C0XX
+        atom2          HDRO
+        initial_force  48.70000
+        initial_equil  2.09230
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    angle
+        atom0          HDRO
+        atom1          C0XX
+        atom2          DU03
+        initial_force  39.00000
+        initial_equil  1.87763
+        final_force    39.00000
+        final_equil    1.87763
+    endangle
+    angle
+        atom0          CAR3
+        atom1          C319
+        atom2          CHO7
+        initial_force  68.80000
+        initial_equil  2.09475
+        final_force    64.90000
+        final_equil    1.94622
+    endangle
+    angle
+        atom0          CAR3
+        atom1          C319
+        atom2          DU05
+        initial_force  46.80000
+        initial_equil  1.91637
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    angle
+        atom0          CAR3
+        atom1          C319
+        atom2          HCPZ
+        initial_force  48.70000
+        initial_equil  2.09230
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    angle
+        atom0          CHO7
+        atom1          C319
+        atom2          DU05
+        initial_force  46.80000
+        initial_equil  1.91637
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    angle
+        atom0          CHO7
+        atom1          C319
+        atom2          HCPZ
+        initial_force  48.70000
+        initial_equil  2.09230
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    angle
+        atom0          HCPZ
+        atom1          C319
+        atom2          DU05
+        initial_force  39.00000
+        initial_equil  1.87763
+        final_force    39.00000
+        final_equil    1.87763
+    endangle
+    angle
+        atom0          CZ5N
+        atom1          C5BQ
+        atom2          HCOI
+        initial_force  47.30000
+        initial_equil  1.92807
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    angle
+        atom0          CZ5N
+        atom1          C5BQ
+        atom2          HUHE
+        initial_force  47.30000
+        initial_equil  1.92807
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    angle
+        atom0          CZ5N
+        atom1          C5BQ
+        atom2          HZZ8
+        initial_force  47.30000
+        initial_equil  1.92807
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    angle
+        atom0          C319
+        atom1          CAR3
+        atom2          DU06
+        initial_force  46.80000
+        initial_equil  1.91637
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    angle
+        atom0          C319
+        atom1          CAR3
+        atom2          HV5Y
+        initial_force  48.70000
+        initial_equil  2.09230
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    angle
+        atom0          CP31
+        atom1          CAR3
+        atom2          C319
+        initial_force  68.80000
+        initial_equil  2.09475
+        final_force    64.90000
+        final_equil    1.94622
+    endangle
+    angle
+        atom0          CP31
+        atom1          CAR3
+        atom2          DU06
+        initial_force  46.80000
+        initial_equil  1.91637
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    angle
+        atom0          CP31
+        atom1          CAR3
+        atom2          HV5Y
+        initial_force  48.70000
+        initial_equil  2.09230
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    angle
+        atom0          HV5Y
+        atom1          CAR3
+        atom2          DU06
+        initial_force  39.00000
+        initial_equil  1.87763
+        final_force    39.00000
+        final_equil    1.87763
+    endangle
+    angle
+        atom0          C0XX
+        atom1          CHO7
+        atom2          DU04
+        initial_force  46.80000
+        initial_equil  1.91637
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    angle
+        atom0          C0XX
+        atom1          CHO7
+        atom2          H1OD
+        initial_force  48.70000
+        initial_equil  2.09230
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    angle
+        atom0          C319
+        atom1          CHO7
+        atom2          C0XX
+        initial_force  68.80000
+        initial_equil  2.09475
+        final_force    64.90000
+        final_equil    1.94622
+    endangle
+    angle
+        atom0          C319
+        atom1          CHO7
+        atom2          DU04
+        initial_force  46.80000
+        initial_equil  1.91637
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    angle
+        atom0          C319
+        atom1          CHO7
+        atom2          H1OD
+        initial_force  48.70000
+        initial_equil  2.09230
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    angle
+        atom0          H1OD
+        atom1          CHO7
+        atom2          DU04
+        initial_force  39.00000
+        initial_equil  1.87763
+        final_force    39.00000
+        final_equil    1.87763
+    endangle
+    angle
+        atom0          C
+        atom1          CP31
+        atom2          CAR3
+        initial_force  65.60000
+        initial_equil  2.10784
+        final_force    64.90000
+        final_equil    1.94622
+    endangle
+    angle
+        atom0          C
+        atom1          CP31
+        atom2          CZ5N
+        initial_force  65.60000
+        initial_equil  2.10784
+        final_force    64.90000
+        final_equil    1.94622
+    endangle
+    angle
+        atom0          C
+        atom1          CP31
+        atom2          DU02
+        initial_force  46.80000
+        initial_equil  1.91637
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    angle
+        atom0          CAR3
+        atom1          CP31
+        atom2          CZ5N
+        initial_force  68.80000
+        initial_equil  2.09475
+        final_force    64.90000
+        final_equil    1.94622
+    endangle
+    angle
+        atom0          CAR3
+        atom1          CP31
+        atom2          DU02
+        initial_force  46.80000
+        initial_equil  1.91637
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    angle
+        atom0          CZ5N
+        atom1          CP31
+        atom2          DU02
+        initial_force  46.80000
+        initial_equil  1.91637
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    angle
+        atom0          C0XX
+        atom1          CZ5N
+        atom2          C5BQ
+        initial_force  65.60000
+        initial_equil  2.10784
+        final_force    64.90000
+        final_equil    1.94622
+    endangle
+    angle
+        atom0          C0XX
+        atom1          CZ5N
+        atom2          DU01
+        initial_force  46.80000
+        initial_equil  1.91637
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    angle
+        atom0          C5BQ
+        atom1          CZ5N
+        atom2          DU01
+        initial_force  46.80000
+        initial_equil  1.91637
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    angle
+        atom0          CP31
+        atom1          CZ5N
+        atom2          C0XX
+        initial_force  68.80000
+        initial_equil  2.09475
+        final_force    64.90000
+        final_equil    1.94622
+    endangle
+    angle
+        atom0          CP31
+        atom1          CZ5N
+        atom2          C5BQ
+        initial_force  65.60000
+        initial_equil  2.10784
+        final_force    64.90000
+        final_equil    1.94622
+    endangle
+    angle
+        atom0          CP31
+        atom1          CZ5N
+        atom2          DU01
+        initial_force  46.80000
+        initial_equil  1.91637
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    dihedral
+        atom0          H
+        atom1          C
+        atom2          CP31
+        atom3          DU02
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.1200 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          HLYE
+        atom1          C
+        atom2          CP31
+        atom3          DU02
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.1200 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          HPSU
+        atom1          C
+        atom2          CP31
+        atom3          DU02
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.1200 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          CZ5N
+        atom1          C0XX
+        atom2          CHO7
+        atom3          DU04
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          CZ5N
+        atom1          C0XX
+        atom2          CHO7
+        atom3          H1OD
+        initial_form   3.6250 2.0 3.141594
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          DU03
+        atom1          C0XX
+        atom2          CHO7
+        atom3          DU04
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.1200 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          HDRO
+        atom1          C0XX
+        atom2          CHO7
+        atom3          DU04
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.1200 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          CHO7
+        atom1          C0XX
+        atom2          CZ5N
+        atom3          C5BQ
+        initial_form   3.6250 2.0 3.141594
+        final_form     0.1100 1.0 -0.000000 0.1300 3.0 -0.000000 0.2900 2.0 3.141594
+    enddihedral
+    dihedral
+        atom0          CHO7
+        atom1          C0XX
+        atom2          CZ5N
+        atom3          DU01
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          HDRO
+        atom1          C0XX
+        atom2          CZ5N
+        atom3          DU01
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.1200 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          CHO7
+        atom1          C319
+        atom2          CAR3
+        atom3          DU06
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          CHO7
+        atom1          C319
+        atom2          CAR3
+        atom3          HV5Y
+        initial_form   3.6250 2.0 3.141594
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          DU05
+        atom1          C319
+        atom2          CAR3
+        atom3          DU06
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.1200 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          HCPZ
+        atom1          C319
+        atom2          CAR3
+        atom3          DU06
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.1200 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          CAR3
+        atom1          C319
+        atom2          CHO7
+        atom3          C0XX
+        initial_form   3.6250 2.0 3.141594
+        final_form     0.1100 1.0 -0.000000 0.1300 3.0 -0.000000 0.2900 2.0 3.141594
+    enddihedral
+    dihedral
+        atom0          CAR3
+        atom1          C319
+        atom2          CHO7
+        atom3          DU04
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          CAR3
+        atom1          C319
+        atom2          CHO7
+        atom3          H1OD
+        initial_form   3.6250 2.0 3.141594
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          HCPZ
+        atom1          C319
+        atom2          CHO7
+        atom3          DU04
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.1200 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          HCPZ
+        atom1          C319
+        atom2          CHO7
+        atom3          H1OD
+        initial_form   3.6250 2.0 3.141594
+        final_form     0.1200 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          HCOI
+        atom1          C5BQ
+        atom2          CZ5N
+        atom3          DU01
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.1200 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          HUHE
+        atom1          C5BQ
+        atom2          CZ5N
+        atom3          DU01
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.1200 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          HZZ8
+        atom1          C5BQ
+        atom2          CZ5N
+        atom3          DU01
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.1200 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          CP31
+        atom1          CAR3
+        atom2          C319
+        atom3          CHO7
+        initial_form   3.6250 2.0 3.141594
+        final_form     0.1100 1.0 -0.000000 0.1300 3.0 -0.000000 0.2900 2.0 3.141594
+    enddihedral
+    dihedral
+        atom0          CP31
+        atom1          CAR3
+        atom2          C319
+        atom3          DU05
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          CP31
+        atom1          CAR3
+        atom2          C319
+        atom3          HCPZ
+        initial_form   3.6250 2.0 3.141594
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          HV5Y
+        atom1          CAR3
+        atom2          C319
+        atom3          DU05
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.1200 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          HV5Y
+        atom1          CAR3
+        atom2          C319
+        atom3          HCPZ
+        initial_form   3.6250 2.0 3.141594
+        final_form     0.1200 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          C319
+        atom1          CAR3
+        atom2          CP31
+        atom3          CZ5N
+        initial_form   3.6250 2.0 3.141594
+        final_form     0.1100 1.0 -0.000000 0.1300 3.0 -0.000000 0.2900 2.0 3.141594
+    enddihedral
+    dihedral
+        atom0          C319
+        atom1          CAR3
+        atom2          CP31
+        atom3          DU02
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          HV5Y
+        atom1          CAR3
+        atom2          CP31
+        atom3          DU02
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.1200 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          C319
+        atom1          CHO7
+        atom2          C0XX
+        atom3          CZ5N
+        initial_form   3.6250 2.0 3.141594
+        final_form     0.1100 1.0 -0.000000 0.1300 3.0 -0.000000 0.2900 2.0 3.141594
+    enddihedral
+    dihedral
+        atom0          C319
+        atom1          CHO7
+        atom2          C0XX
+        atom3          DU03
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          C319
+        atom1          CHO7
+        atom2          C0XX
+        atom3          HDRO
+        initial_form   3.6250 2.0 3.141594
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          H1OD
+        atom1          CHO7
+        atom2          C0XX
+        atom3          DU03
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.1200 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          H1OD
+        atom1          CHO7
+        atom2          C0XX
+        atom3          HDRO
+        initial_form   3.6250 2.0 3.141594
+        final_form     0.1200 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          C0XX
+        atom1          CHO7
+        atom2          C319
+        atom3          DU05
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          C0XX
+        atom1          CHO7
+        atom2          C319
+        atom3          HCPZ
+        initial_form   3.6250 2.0 3.141594
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          DU04
+        atom1          CHO7
+        atom2          C319
+        atom3          DU05
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.1200 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          H1OD
+        atom1          CHO7
+        atom2          C319
+        atom3          DU05
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.1200 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          CAR3
+        atom1          CP31
+        atom2          C
+        atom3          H
+        initial_form   0.0000 0.0 0.000000
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          CAR3
+        atom1          CP31
+        atom2          C
+        atom3          HLYE
+        initial_form   0.0000 0.0 0.000000
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          CAR3
+        atom1          CP31
+        atom2          C
+        atom3          HPSU
+        initial_form   0.0000 0.0 0.000000
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          CZ5N
+        atom1          CP31
+        atom2          C
+        atom3          H
+        initial_form   0.0000 0.0 0.000000
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          CZ5N
+        atom1          CP31
+        atom2          C
+        atom3          HLYE
+        initial_form   0.0000 0.0 0.000000
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          CZ5N
+        atom1          CP31
+        atom2          C
+        atom3          HPSU
+        initial_form   0.0000 0.0 0.000000
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          C
+        atom1          CP31
+        atom2          CAR3
+        atom3          C319
+        initial_form   3.6250 2.0 3.141594
+        final_form     0.1100 1.0 -0.000000 0.1300 3.0 -0.000000 0.2900 2.0 3.141594
+    enddihedral
+    dihedral
+        atom0          C
+        atom1          CP31
+        atom2          CAR3
+        atom3          DU06
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          C
+        atom1          CP31
+        atom2          CAR3
+        atom3          HV5Y
+        initial_form   3.6250 2.0 3.141594
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          CZ5N
+        atom1          CP31
+        atom2          CAR3
+        atom3          DU06
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          CZ5N
+        atom1          CP31
+        atom2          CAR3
+        atom3          HV5Y
+        initial_form   3.6250 2.0 3.141594
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          DU02
+        atom1          CP31
+        atom2          CAR3
+        atom3          DU06
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.1200 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          C
+        atom1          CP31
+        atom2          CZ5N
+        atom3          C0XX
+        initial_form   3.6250 2.0 3.141594
+        final_form     0.1100 1.0 -0.000000 0.1300 3.0 -0.000000 0.2900 2.0 3.141594
+    enddihedral
+    dihedral
+        atom0          C
+        atom1          CP31
+        atom2          CZ5N
+        atom3          C5BQ
+        initial_form   3.6250 2.0 3.141594
+        final_form     0.1100 1.0 -0.000000 0.1300 3.0 -0.000000 0.2900 2.0 3.141594
+    enddihedral
+    dihedral
+        atom0          C
+        atom1          CP31
+        atom2          CZ5N
+        atom3          DU01
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          CAR3
+        atom1          CP31
+        atom2          CZ5N
+        atom3          C0XX
+        initial_form   3.6250 2.0 3.141594
+        final_form     0.1100 1.0 -0.000000 0.1300 3.0 -0.000000 0.2900 2.0 3.141594
+    enddihedral
+    dihedral
+        atom0          CAR3
+        atom1          CP31
+        atom2          CZ5N
+        atom3          C5BQ
+        initial_form   3.6250 2.0 3.141594
+        final_form     0.1100 1.0 -0.000000 0.1300 3.0 -0.000000 0.2900 2.0 3.141594
+    enddihedral
+    dihedral
+        atom0          CAR3
+        atom1          CP31
+        atom2          CZ5N
+        atom3          DU01
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          C5BQ
+        atom1          CZ5N
+        atom2          C0XX
+        atom3          DU03
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          C5BQ
+        atom1          CZ5N
+        atom2          C0XX
+        atom3          HDRO
+        initial_form   3.6250 2.0 3.141594
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          CP31
+        atom1          CZ5N
+        atom2          C0XX
+        atom3          CHO7
+        initial_form   3.6250 2.0 3.141594
+        final_form     0.1100 1.0 -0.000000 0.1300 3.0 -0.000000 0.2900 2.0 3.141594
+    enddihedral
+    dihedral
+        atom0          CP31
+        atom1          CZ5N
+        atom2          C0XX
+        atom3          DU03
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          CP31
+        atom1          CZ5N
+        atom2          C0XX
+        atom3          HDRO
+        initial_form   3.6250 2.0 3.141594
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          DU01
+        atom1          CZ5N
+        atom2          C0XX
+        atom3          DU03
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.1200 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          C0XX
+        atom1          CZ5N
+        atom2          C5BQ
+        atom3          HCOI
+        initial_form   0.0000 0.0 0.000000
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          C0XX
+        atom1          CZ5N
+        atom2          C5BQ
+        atom3          HUHE
+        initial_form   0.0000 0.0 0.000000
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          C0XX
+        atom1          CZ5N
+        atom2          C5BQ
+        atom3          HZZ8
+        initial_form   0.0000 0.0 0.000000
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          CP31
+        atom1          CZ5N
+        atom2          C5BQ
+        atom3          HCOI
+        initial_form   0.0000 0.0 0.000000
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          CP31
+        atom1          CZ5N
+        atom2          C5BQ
+        atom3          HUHE
+        initial_form   0.0000 0.0 0.000000
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          CP31
+        atom1          CZ5N
+        atom2          C5BQ
+        atom3          HZZ8
+        initial_form   0.0000 0.0 0.000000
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          C0XX
+        atom1          CZ5N
+        atom2          CP31
+        atom3          DU02
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          C5BQ
+        atom1          CZ5N
+        atom2          CP31
+        atom3          DU02
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.0800 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          DU01
+        atom1          CZ5N
+        atom2          CP31
+        atom3          DU02
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.1200 3.0 -0.000000
+    enddihedral
+    improper
+        atom0          CP31
+        atom1          C319
+        atom2          CAR3
+        atom3          HV5Y
+        initial_form   1.1000 2.0 3.141594
+        final form     0.0000 2.0 3.141594
+    endimproper
+    improper
+        atom0          C319
+        atom1          C0XX
+        atom2          CHO7
+        atom3          H1OD
+        initial_form   1.1000 2.0 3.141594
+        final form     0.0000 2.0 3.141594
+    endimproper
+    improper
+        atom0          C0XX
+        atom1          CZ5N
+        atom2          CP31
+        atom3          C5BQ
+        initial_form   1.1000 2.0 3.141594
+        final form     0.0000 2.0 3.141594
+    endimproper
+    improper
+        atom0          C
+        atom1          CP31
+        atom2          CZ5N
+        atom3          CAR3
+        initial_form   1.1000 2.0 3.141594
+        final form     0.0000 2.0 3.141594
+    endimproper
+    improper
+        atom0          CAR3
+        atom1          CHO7
+        atom2          C319
+        atom3          HCPZ
+        initial_form   1.1000 2.0 3.141594
+        final form     0.0000 2.0 3.141594
+    endimproper
+    improper
+        atom0          CHO7
+        atom1          CZ5N
+        atom2          C0XX
+        atom3          HDRO
+        initial_form   1.1000 2.0 3.141594
+        final form     0.0000 2.0 3.141594
+    endimproper
+endmolecule

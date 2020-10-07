@@ -1,0 +1,313 @@
+
+Loading configuration information from file somd.cfg
+
+Running a somd-freenrg calculation using files somd.prm7, somd.rst7 and somd.pert.
+Using parameters:
+===============
+barostat == True
+buffered coordinates frequency == 0
+constraint == hbonds-notperturbed
+crdfile == somd.rst7
+cutoff distance == 10 angstrom
+cutoff type == cutoffperiodic
+energy frequency == 500
+equilibrate == False
+gpu == 0
+lambda array == (0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0)
+lambda_val == 0.2
+minimise == True
+morphfile == somd.pert
+ncycles == 50
+ncycles_per_snap == 2
+nmoves == 10000
+platform == CUDA
+pressure == 1 atm
+reaction field dielectric == 78.3
+save coordinates == True
+temperature == 300 t
+thermostat == True
+timestep == 0.002 ps
+topfile == somd.prm7
+===============
+### Running Single Topology Molecular Dynamics Free Energy on unknown ###
+###================Setting up calculation=====================###
+New run. Loading input and creating restart
+lambda is 0.2
+Create the System...
+Selecting dummy groups
+Creating force fields... 
+Setting up the simulation with random seed 163868
+Setting up moves...
+Created a MD move that uses OpenMM for all molecules on 0 
+Generated random seed number 163868 
+Saving restart
+Setting up sim file. 
+There are 2646 atoms in the group 
+###===========================================================###
+
+###=======================Minimisation========================###
+Running minimisation.
+Energy before the minimisation: 7756.21 kcal mol-1
+Tolerance for minimisation: 1
+Maximum number of minimisation iterations: 1000
+Energy after the minimization: -10441.2 kcal mol-1
+Energy minimization done.
+###===========================================================###
+
+###====================somd-freenrg run=======================###
+Starting somd-freenrg run...
+10000 moves 50 cycles, 1000 ps simulation time
+
+Cycle =  1 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  2 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  3 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  4 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  5 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  6 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  7 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  8 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  9 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  10 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  11 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  12 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  13 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  14 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  15 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  16 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  17 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  18 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  19 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  20 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  21 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  22 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  23 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  24 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  25 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  26 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  27 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  28 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  29 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  30 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  31 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  32 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  33 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  34 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  35 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  36 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  37 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  38 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  39 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  40 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  41 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  42 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  43 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  44 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  45 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  46 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  47 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  48 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  49 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  50 
+
+Backing up previous restart
+Saving new restart
+Simulation took 199 s 
+###===========================================================###
+
+Starting /home/jscheen/biosimspace.app/bin/somd-freenrg: number of threads equals 20

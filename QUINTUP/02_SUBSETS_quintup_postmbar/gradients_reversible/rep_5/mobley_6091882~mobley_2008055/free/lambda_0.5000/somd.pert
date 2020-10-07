@@ -1,0 +1,327 @@
+version 1
+molecule LIG
+    atom
+        name           C
+        initial_type   c2
+        final_type     c3
+        initial_LJ     3.31521 0.09880
+        final_LJ       3.39771 0.10780
+        initial_charge -0.21800
+        final_charge   -0.09435
+    endatom
+    atom
+        name           COL9
+        initial_type   c2
+        final_type     c3
+        initial_LJ     3.31521 0.09880
+        final_LJ       3.39771 0.10780
+        initial_charge -0.21800
+        final_charge   -0.09435
+    endatom
+    atom
+        name           DU01
+        initial_type   du
+        final_type     hc
+        initial_LJ     0.00000 0.00000
+        final_LJ       2.60018 0.02080
+        initial_charge -0.00000
+        final_charge   0.03145
+    endatom
+    atom
+        name           DU02
+        initial_type   du
+        final_type     hc
+        initial_LJ     0.00000 0.00000
+        final_LJ       2.60018 0.02080
+        initial_charge -0.00000
+        final_charge   0.03145
+    endatom
+    atom
+        name           H
+        initial_type   ha
+        final_type     hc
+        initial_LJ     2.62548 0.01610
+        final_LJ       2.60018 0.02080
+        initial_charge 0.10900
+        final_charge   0.03145
+    endatom
+    atom
+        name           H4ZI
+        initial_type   ha
+        final_type     hc
+        initial_LJ     2.62548 0.01610
+        final_LJ       2.60018 0.02080
+        initial_charge 0.10900
+        final_charge   0.03145
+    endatom
+    atom
+        name           HGDH
+        initial_type   ha
+        final_type     hc
+        initial_LJ     2.62548 0.01610
+        final_LJ       2.60018 0.02080
+        initial_charge 0.10900
+        final_charge   0.03145
+    endatom
+    atom
+        name           HQXX
+        initial_type   ha
+        final_type     hc
+        initial_LJ     2.62548 0.01610
+        final_LJ       2.60018 0.02080
+        initial_charge 0.10900
+        final_charge   0.03145
+    endatom
+    bond
+        atom0          C
+        atom1          COL9
+        initial_force  481.80000
+        initial_equil  1.33400
+        final_force    232.50000
+        final_equil    1.53800
+    endbond
+    bond
+        atom0          C
+        atom1          DU01
+        initial_force  375.90000
+        initial_equil  1.09700
+        final_force    375.90000
+        final_equil    1.09700
+    endbond
+    bond
+        atom0          C
+        atom1          H
+        initial_force  392.20000
+        initial_equil  1.08800
+        final_force    375.90000
+        final_equil    1.09700
+    endbond
+    bond
+        atom0          C
+        atom1          HQXX
+        initial_force  392.20000
+        initial_equil  1.08800
+        final_force    375.90000
+        final_equil    1.09700
+    endbond
+    bond
+        atom0          COL9
+        atom1          DU02
+        initial_force  375.90000
+        initial_equil  1.09700
+        final_force    375.90000
+        final_equil    1.09700
+    endbond
+    bond
+        atom0          COL9
+        atom1          H4ZI
+        initial_force  392.20000
+        initial_equil  1.08800
+        final_force    375.90000
+        final_equil    1.09700
+    endbond
+    bond
+        atom0          COL9
+        atom1          HGDH
+        initial_force  392.20000
+        initial_equil  1.08800
+        final_force    375.90000
+        final_equil    1.09700
+    endbond
+    angle
+        atom0          COL9
+        atom1          C
+        atom2          DU01
+        initial_force  46.80000
+        initial_equil  1.91637
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    angle
+        atom0          COL9
+        atom1          C
+        atom2          H
+        initial_force  50.40000
+        initial_equil  2.10190
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    angle
+        atom0          COL9
+        atom1          C
+        atom2          HQXX
+        initial_force  50.40000
+        initial_equil  2.10190
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    angle
+        atom0          H
+        atom1          C
+        atom2          DU01
+        initial_force  39.00000
+        initial_equil  1.87763
+        final_force    39.00000
+        final_equil    1.87763
+    endangle
+    angle
+        atom0          H
+        atom1          C
+        atom2          HQXX
+        initial_force  37.70000
+        initial_equil  2.04029
+        final_force    39.00000
+        final_equil    1.87763
+    endangle
+    angle
+        atom0          HQXX
+        atom1          C
+        atom2          DU01
+        initial_force  39.00000
+        initial_equil  1.87763
+        final_force    39.00000
+        final_equil    1.87763
+    endangle
+    angle
+        atom0          C
+        atom1          COL9
+        atom2          DU02
+        initial_force  46.80000
+        initial_equil  1.91637
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    angle
+        atom0          C
+        atom1          COL9
+        atom2          H4ZI
+        initial_force  50.40000
+        initial_equil  2.10190
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    angle
+        atom0          C
+        atom1          COL9
+        atom2          HGDH
+        initial_force  50.40000
+        initial_equil  2.10190
+        final_force    46.80000
+        final_equil    1.91637
+    endangle
+    angle
+        atom0          H4ZI
+        atom1          COL9
+        atom2          DU02
+        initial_force  39.00000
+        initial_equil  1.87763
+        final_force    39.00000
+        final_equil    1.87763
+    endangle
+    angle
+        atom0          HGDH
+        atom1          COL9
+        atom2          DU02
+        initial_force  39.00000
+        initial_equil  1.87763
+        final_force    39.00000
+        final_equil    1.87763
+    endangle
+    angle
+        atom0          HGDH
+        atom1          COL9
+        atom2          H4ZI
+        initial_force  37.70000
+        initial_equil  2.04029
+        final_force    39.00000
+        final_equil    1.87763
+    endangle
+    dihedral
+        atom0          DU01
+        atom1          C
+        atom2          COL9
+        atom3          DU02
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.1200 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          H
+        atom1          C
+        atom2          COL9
+        atom3          DU02
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.1200 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          H
+        atom1          C
+        atom2          COL9
+        atom3          H4ZI
+        initial_form   6.6500 2.0 3.141594
+        final_form     0.1200 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          H
+        atom1          C
+        atom2          COL9
+        atom3          HGDH
+        initial_form   6.6500 2.0 3.141594
+        final_form     0.1200 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          HQXX
+        atom1          C
+        atom2          COL9
+        atom3          DU02
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.1200 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          HQXX
+        atom1          C
+        atom2          COL9
+        atom3          H4ZI
+        initial_form   6.6500 2.0 3.141594
+        final_form     0.1200 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          HQXX
+        atom1          C
+        atom2          COL9
+        atom3          HGDH
+        initial_form   6.6500 2.0 3.141594
+        final_form     0.1200 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          H4ZI
+        atom1          COL9
+        atom2          C
+        atom3          DU01
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.1200 3.0 -0.000000
+    enddihedral
+    dihedral
+        atom0          HGDH
+        atom1          COL9
+        atom2          C
+        atom3          DU01
+        initial_form   0.0000 3.0 -0.000000
+        final_form     0.1200 3.0 -0.000000
+    enddihedral
+    improper
+        atom0          COL9
+        atom1          H
+        atom2          C
+        atom3          HQXX
+        initial_form   1.1000 2.0 3.141594
+        final form     0.0000 2.0 3.141594
+    endimproper
+    improper
+        atom0          C
+        atom1          HGDH
+        atom2          COL9
+        atom3          H4ZI
+        initial_form   1.1000 2.0 3.141594
+        final form     0.0000 2.0 3.141594
+    endimproper
+endmolecule
